@@ -28,8 +28,8 @@
   },
   "lint-staged": {
     "*.{vue,js,ts,jsx,tsx}": [
-      "yarn prettier",
-      "yarn lint"
+      "yarn lint",
+      "yarn prettier"
     ]
   },
   "devDependencies": {
